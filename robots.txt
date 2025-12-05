@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simorafail06-boop.github.io/gravity-vr/sitemap.xml
